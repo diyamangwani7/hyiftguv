@@ -154,7 +154,7 @@ export default function App() {
             className="relative aspect-[3/4] overflow-hidden rounded-2xl"
           >
             <img
-              src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop"
+              src="https://i.ibb.co/QvcBqvDF/elementor-assignment-2.jpg"
               alt="Diya Mangwani"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
